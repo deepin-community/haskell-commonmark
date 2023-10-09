@@ -1,0 +1,2 @@
+debian-watch-does-not-check-gpg-signature
+package-uses-old-debhelper-compat-version
